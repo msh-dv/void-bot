@@ -8,6 +8,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "clientId":"1271321443707125831",
   "description": "basic discord bot template",
   "dependencies": {
     "discord.js": "^14.15.3",
